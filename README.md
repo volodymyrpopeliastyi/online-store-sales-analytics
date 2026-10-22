@@ -6,7 +6,8 @@ End-to-end analysis of an online furniture store: data extraction with **SQL (Bi
 
 ## Interactive dashboard
 
-[![Dashboard: Overview](images/dashboard_overview.png)](https://public.tableau.com/app/profile/volodymyr.popeliastyi7905/viz/WebsiteAnalytics_17924856911650/Overview)
+[![Dashboard: Overview](images/dashboard_overview.png)]
+[![Dashboard: Segments](images/dashboard_segments.png)](https://public.tableau.com/app/profile/volodymyr.popeliastyi7905/viz/WebsiteAnalytics_17924856911650/Overview)
 
 [Open the dashboard on Tableau Public](https://public.tableau.com/app/profile/volodymyr.popeliastyi7905/viz/WebsiteAnalytics_17924856911650/Overview)
 
