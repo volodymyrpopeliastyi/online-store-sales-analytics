@@ -41,8 +41,8 @@ SQL (BigQuery) · Python (pandas, NumPy, SciPy, Matplotlib, seaborn) · Tableau 
 ## Recommendations
 
 - Grow traffic, since conversion is flat; plan campaigns and stock around the December peak and strong weekdays.
-- Evaluate Paid Search by cost per visitor: it converts the same as Organic Search.
-- Test site-wide conversion levers (checkout, prices, product pages), as conversion is the same in every segment.
+- Evaluate Paid Search by cost per visitor: it converts at practically the same rate as Organic Search.
+- Test site-wide conversion levers (checkout, prices, product pages), as conversion is similar in every segment.
 - Promote high-ticket categories and add cross-sell to high-volume, low-price ones.
 
 ## Repository structure
